@@ -1,0 +1,11 @@
+{
+  "name": "vue-flow-loader",
+  "version": "0.1.0",
+  "description": "vue 中添加flow静态类型验证",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zdzDesigner",
+  "license": "ISC"
+}
